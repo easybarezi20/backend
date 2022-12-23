@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1111",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+        "name": "Minesweeper",
+        "live": "https://easybarezi20.github.io/minesweeper_project1/",
+        "git": "https://github.com/easybarezi20/minesweeper_project1",
+        "image":"https://i.imgur.com/5pl7Ccb.png"
     },
     {
-      "name": "project2023",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+        "name": "Personal Dashboard",
+        "live": "https://mypersonaldashboard.netlify.app",
+        "git": "https://github.com/jbg2023/personal_dashboard",
+        "image":"https://i.imgur.com/PXDjh5T.png"
     }
-  ]
+]
