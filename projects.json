@@ -3,12 +3,16 @@
         "name": "Minesweeper",
         "live": "https://easybarezi20.github.io/minesweeper_project1/",
         "git": "https://github.com/easybarezi20/minesweeper_project1",
-        "image":"https://i.imgur.com/5pl7Ccb.png"
+        "image":"https://i.imgur.com/5pl7Ccb.png",
+        "placeholder": "https://cdn.mos.cms.futurecdn.net/x5GaA4GkehF4fUQjTExNoZ.jpg",
+        "description":  "Minesweeper game with a minecraft theme"
     },
     {
         "name": "Personal Dashboard",
         "live": "https://mypersonaldashboard.netlify.app",
         "git": "https://github.com/jbg2023/personal_dashboard",
-        "image":"https://i.imgur.com/PXDjh5T.png"
+        "image":"https://i.imgur.com/PXDjh5T.png",
+        "placeholder": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/987137/retina_1708x683_cover-0823-DashboardDesign-Dan-Newsletter-4b673291c44139549875f88c8c1c9a60.png",
+        "description": "A dashboard utilizing four api's to display upcoming sports game from the NFL and NBA, a quote generator, stock news, and weather forcast"
     }
 ]
