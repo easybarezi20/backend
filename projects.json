@@ -14,5 +14,13 @@
         "image":"https://i.imgur.com/PXDjh5T.png",
         "placeholder": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/987137/retina_1708x683_cover-0823-DashboardDesign-Dan-Newsletter-4b673291c44139549875f88c8c1c9a60.png",
         "description": "A dashboard utilizing four api's to display upcoming sports game from the NFL and NBA, a quote generator, stock news, and weather forcast"
+    },
+    {
+        "name": "NiFT",
+        "live": "https://nift-bld.netlify.app/",
+        "git": "https://github.com/davidhlee94/project3-frontend",
+        "image": "https://user-images.githubusercontent.com/112284075/211636024-b2ad7fd0-2d1b-471e-b92d-629f8ad50a85.png",
+        "placeholder": "https://i.seadn.io/gcs/files/0e4bf7b5afae2e88aca0fa8afaa1e9d7.gif",
+        "description": "Nift is a collaborative website that reverse engineers opensea.io to a degree"
     }
 ]
