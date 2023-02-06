@@ -1,5 +1,13 @@
 [
     {
+        "name": "Finstagram",
+        "live": "https://finstagram-bld.netlify.app/login",
+        "git": "https://github.com/easybarezi20/final-project-frontend",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png",
+        "placeholder": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png",
+        "description": "Instagram clone wiht its core functionalities such as authentication,follwing,liking and unliking, commenting, and posting"
+    },
+    {
         "name": "NiFT",
         "live": "https://nift-bld.netlify.app/",
         "git": "https://github.com/davidhlee94/project3-frontend",
